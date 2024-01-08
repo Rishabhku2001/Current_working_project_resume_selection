@@ -10,7 +10,6 @@ def hello_world():
   upload_csv_file_to_database()
   resume=load_resume_from_db()
   print("I am here")
-  make_png_file()
   print("This also done")
   
   l=len(resume);
